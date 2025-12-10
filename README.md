@@ -3,4 +3,4 @@ Um teste de assembly para malwares o codigo é livre caso você queira usar, mud
 a variavel string no arquivo boot para mudar o texto a função color e a setup
 eu peguei do artic por isso dou os creditos a ele
 
-<img src="https://gachi.gay/3ULWc5">
+<img src="img/image1.png">
